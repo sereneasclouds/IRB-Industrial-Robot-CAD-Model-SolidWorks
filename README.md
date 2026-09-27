@@ -1,4 +1,4 @@
-# IRB Industrial Robot CAD Model — SolidWorks
+# IRB Industrial Robot CAD Model: SolidWorks
 
 A **3D CAD modelling and assembly project developed using SOLIDWORKS**, focused on the design and assembly of an **IRB industrial robot**.The project consists of individually modelled mechanical components that are integrated into a complete industrial robot assembly using the SolidWorks assembly environment.
 
@@ -6,7 +6,7 @@ A **3D CAD modelling and assembly project developed using SOLIDWORKS**, focused 
 
 ## Project Overview
 
-The objective of this project was to develop a detailed 3D CAD model of an IRB industrial robot by designing its individual mechanical components and integrating them into a complete robotic assembly.
+The objective of this project is to develop a detailed 3D CAD model of an IRB industrial robot by designing its individual mechanical components and integrating them into a complete robotic assembly.
 
 The project demonstrates practical application of:
 

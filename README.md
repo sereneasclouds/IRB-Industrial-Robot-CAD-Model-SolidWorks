@@ -34,6 +34,7 @@ These components are integrated into the main **`IRB.SLDASM` assembly file**, wh
 
 ## Modelling Workflow
 
+```text
 Individual Component Design
             ↓
       3D Part Modelling
@@ -46,4 +47,4 @@ Individual Component Design
             ↓
    SolidWorks Assembly Design
             ↓
-      IRB Robot CAD Model
+ Differential Gearbox CAD Model

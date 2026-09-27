@@ -1,0 +1,1 @@
+# IRB-Industrial-Robot-CAD-Model-SolidWorks
